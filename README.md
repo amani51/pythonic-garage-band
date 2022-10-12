@@ -16,14 +16,14 @@
 
 #### How to initialize/run your application (where applicable)
 
--  python madlib_cli/madlib.py
+-  python pythonic_garage_band/band.py
 
 #### How to use your library (where applicable)
 - you need to install requirements.txt by using 
 - > pip install -r requirements.txt 
 #### Tests
 
-- pytest tests/test_madlib.py
+- pytest tests/test_band.py 
 
 ### Pull Requests
-- [PULL REQUEST LINK](https://github.com/amani51/madlib-cli/pull/3)
+- [PULL REQUEST LINK]()
